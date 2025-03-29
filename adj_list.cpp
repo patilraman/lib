@@ -47,7 +47,7 @@ void Print_Path(vector<vector<int>> &v, int s, int v)
     if()
 }
 
-
+/* Breadth First search algo */
 void BFS(vector<vector<int>> &v)
 {
     int rows = v.size();
